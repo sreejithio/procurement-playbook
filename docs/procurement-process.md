@@ -84,4 +84,4 @@ Procurement is the structured process of acquiring goods and services that meet 
 
 ## Key Objective
 
-The goal of procurement is to obtain the right product, from the right supplier, at the right price, in the right quantity, delivered at the right time while minimizing risk and maximizing business value.
+The goal of procurement is to obtain the right product, from the right supplier, at the right price, in the right quantity, delivered at the right time while minimizing risk and maximizing business value.l
